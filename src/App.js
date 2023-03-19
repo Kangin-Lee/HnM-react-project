@@ -14,6 +14,7 @@ import Navbar from './component/Navbar';
 // 7. 로그아웃이 되면 상품 디테일페이지를 볼 수 없다. 다시 로그인 페이지가 보인다.
 // 8. 로그인을 하면 로그아웃이 보이고 로그아웃을 하면 로그인이 보인다.
 // 9. 상품을 검색할 수 있다.
+import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <div>
